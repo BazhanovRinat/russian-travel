@@ -14,4 +14,4 @@
 * Сдлеать элементы более гибкими
 
 #### Ссылка на проект. 
-https://github.com/BazhanovRinat/russian-travel.git
+https://bazhanovrinat.github.io/russian-travel/
