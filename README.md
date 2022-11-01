@@ -12,3 +12,6 @@
 ### Что осталось доработать.
 
 * Сдлеать элементы более гибкими
+
+#### Ссылка на проект. 
+https://github.com/BazhanovRinat/russian-travel.git
