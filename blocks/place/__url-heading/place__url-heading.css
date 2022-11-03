@@ -7,3 +7,9 @@
     margin: 0;
     margin-bottom: 12px;
 }
+
+@media screen and (max-width: 448px) {
+    .place__url-heading {
+        margin: 0 16px;
+    }
+}

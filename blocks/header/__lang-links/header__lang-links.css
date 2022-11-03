@@ -6,11 +6,4 @@
     align-items: end;
     list-style-type: none;
 }
-.header__lang-links li {
-    margin-left: 18px;
-}
 
-.header__lang-links li:first-of-type {
-    margin-left: 0px;
-    text-decoration: underline;
-}
