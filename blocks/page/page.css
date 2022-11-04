@@ -12,3 +12,9 @@
     color: white;
     font-family: "Inter", Arial, sans-serif;
 }
+
+@media screen and (max-width: 448px) {
+    .page {
+        padding-top: 16px;
+}
+}
